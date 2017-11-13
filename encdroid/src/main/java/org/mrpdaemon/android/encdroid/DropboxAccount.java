@@ -37,7 +37,7 @@ import com.dropbox.core.v2.users.FullAccount;
 
 class DropboxAccount extends Account {
 	// Dropbox app key
-	private final static String APP_KEY = "<YOUR APP KEY HERE>";
+	private final static String APP_KEY = "<YOUR-APP-KEY-HERE>";
 
 	// Log tag
 	private final static String TAG = "DropboxAccount";
